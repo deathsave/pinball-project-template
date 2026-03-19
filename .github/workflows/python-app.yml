@@ -4,7 +4,7 @@
 #   https://docs.github.com/en/actions/ \
 #     automating-builds-and-tests/building-and-testing-python
 
-name: Futurama Pinball
+name: Blank Pinball Template
 
 on:
   push:
